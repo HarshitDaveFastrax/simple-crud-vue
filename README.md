@@ -1,4 +1,4 @@
-# simple-employee-crud
+# simple-crud-vue
 
 ## Project setup
 ```
